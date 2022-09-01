@@ -4,6 +4,7 @@ namespace INF099
     {
         static void Main(string[] args) {
             //Alteração realizada por <<Dario>>”.
+            //Outra alteração realizada por <<Dario>>”
         }
     }
 }
